@@ -33,7 +33,7 @@ y le podemos preguntar:
 
 - canciones disponibles, ordenadas por titulo
 - discos disponibles, ordenados por titulo
-- artistas disponibles, ordenados por nombre
+- artista disponibles, ordenados por nombre
 - álbumes por género
 - canciones por género
 
